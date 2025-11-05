@@ -1,6 +1,6 @@
 # Python Homework Repository
 
-This repository contains all my Python exercises for the **Introduction to Programming for Biologists (UE300160)** class.  
+This repository contains my Python exercises for the **Introduction to Programming for Biologists (UE300160)** class.  
 ---
 ## Folder Structure
 
@@ -12,7 +12,7 @@ This repository contains all my Python exercises for the **Introduction to Progr
 Contains miscellaneous files.
 
 ### 3. `rosalind/`
-Contains my solutions to **[Rosalind.info](https://rosalind.info/)** exercises.
+solutions to **[Rosalind.info](https://rosalind.info/)** exercises.
 
 ### 4. `aoc25/`
 ---
